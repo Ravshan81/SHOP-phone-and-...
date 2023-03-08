@@ -1,0 +1,38 @@
+header button {
+  background-color: green;
+  border: none;
+}
+
+header input {
+  padding: 10px 20px;
+  border: green;
+}
+
+header ul {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.card {
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 250px;
+}
+
+.btn {
+  width: 100%;
+}
+
+.futer {
+  background-color: gray;
+}
+
+.zak {
+  background-color: #FFF0F0;
+  border: none;
+  border-radius: 20px;
+}/*# sourceMappingURL=style.css.map */
